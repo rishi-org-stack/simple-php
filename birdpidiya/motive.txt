@@ -1,0 +1,9 @@
+so iam creating birdopidia its badsically to learn php and mysql
+
+1)create a homoe template for all user
+2)create a login form
+3)authorize user
+4)if user is not already present in db redirect to singnup
+5)if user is authorized 
+6)send user/main which will send a html that contais all the birds he added
+8)even he can update imformation of a particular bird using that
